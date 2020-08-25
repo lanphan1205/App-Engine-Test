@@ -1,0 +1,19 @@
+{
+  "name": "app-engine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanphan1205/App-Engine-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanphan1205/App-Engine-Test/issues"
+  },
+  "homepage": "https://github.com/lanphan1205/App-Engine-Test#readme"
+}
